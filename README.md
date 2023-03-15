@@ -1,0 +1,2 @@
+# YOLOv5l_module_small_obj_detect
+YOLOv5l模型小目标检测
